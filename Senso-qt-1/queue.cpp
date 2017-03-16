@@ -1,6 +1,7 @@
 /*
 Fifo implementation
-W.Spieﬂ
+W.Spieﬂ 16.03.2017
+
 */
 #include <iostream>
 #include <cstdlib>
