@@ -1,3 +1,8 @@
+/*
+Qt main Starter
+W.Spieﬂ 16.03.2017
+Random numbers. Origin
+*/
 #include "senso_v.h"
 #include <QTimer>
 #include <QTime>
