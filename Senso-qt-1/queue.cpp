@@ -1,7 +1,7 @@
 /*
 Fifo implementation
 W.Spieﬂ 16.03.2017
-
+Random numbers
 */
 #include <iostream>
 #include <cstdlib>
