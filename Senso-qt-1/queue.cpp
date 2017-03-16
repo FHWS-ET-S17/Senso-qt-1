@@ -1,3 +1,7 @@
+/*
+Fifo implementation
+W.Spieﬂ
+*/
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
