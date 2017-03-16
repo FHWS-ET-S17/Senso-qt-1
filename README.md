@@ -1,7 +1,9 @@
 # Senso-qt-1 
 Qt5.6  und Visual Studio 2015 W.Spieß 3/2017
+
 Diese Applikation demonstriert wie mit VS2105 und qt eine Windows Desktop Applikation aufgebaut wird. 
-Um die gegeben Source zu compilieren muss installiert sein
+Um die gegeben Source zu compilieren muss installiert sein:
+
 1.) Visual Studio 2015 mit VCc++ installieren
 
 2.) qt 5.6.0 (qt-opensource-windows-x86-msvc2015-5.6.0.exe) im Download Qt  5.6 for Windows VS 2015 836MB)
